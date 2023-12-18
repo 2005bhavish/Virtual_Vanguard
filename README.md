@@ -12,5 +12,5 @@
 
 **NOTE**
 
-The model is trained with limited data and is prone to errors. Model needs to be continually upadted for accurate results.
+The model is trained with hsitoric and limited data and is prone to prediction errors. Model needs to be continually upadted for accurate results.
  
