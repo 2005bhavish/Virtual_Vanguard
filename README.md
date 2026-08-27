@@ -2,15 +2,34 @@
 
 **Steps to run the app:**
 
-1. Clone the repository or download the zip file
-2. Make sure python 3.10 is installed
-3. Open the project in IDE, such as pycharm or vscode
-4. Navigate to the terminal and run ```pip install -r requirements.txt```
-5. Navigate to app.py and run ```python -m flask run```
-6. Tap on the URL shown or type ```http://127.0.0.1:5000``` in the browser
-7. The website will be now displayed.
+1. Clone the repository or download the ZIP file.
 
-**NOTE**
+2. Make sure Python is installed on your system.
 
-The model is trained with hsitoric and limited data and is prone to prediction errors. Model needs to be continually upadted for accurate results.
- 
+3. Open the project in an IDE such as **PyCharm** or **VS Code**.
+
+4. Open the terminal and navigate to the project folder.
+
+5. Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+6. Run the Flask application:
+
+```bash
+python -m flask run
+```
+
+7. Open the URL shown in the terminal, or type the following URL in your browser:
+
+```text
+http://127.0.0.1:5000
+```
+
+8. The **Virtual Vanguard** website will now be displayed.
+
+## NOTE
+
+The model is trained on historical and limited data and may produce prediction errors. The model should be continuously updated with new data to improve prediction accuracy.
